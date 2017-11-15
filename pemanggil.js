@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/11/forex-trading-tips-three-vital-rules-to.html"}
-if(x=="2"){xxx="/2017/11/tips-to-pick-best-forex-trading-signals.html"}
-if(x=="3"){xxx="/2017/11/hydraulic-telescopic-cranes.html"}
-if(x=="4"){xxx="/2017/11/material-manufacturing.html"}
+if(x=="1"){xxx="/2017/11/cloud-server-and-shared-server-hosting.html.html"}
+if(x=="2"){xxx="/2017/11/material-manufacturing.html"}
+if(x=="3"){xxx="/2017/11/this-is-3-basic-steps-of-injection.html"}
+if(x=="4"){xxx="/2017/11/tips-to-pick-best-forex-trading-signals.html"}
 if(x=="5"){xxx="/2017/11/insurance-tips-for-homeowners.html"}
 if(x=="6"){xxx="/2017/11/8-tips-to-save-money-on-car-insurance.html"}
 if(x=="7"){xxx="/2017/11/mobile-oil-change-business-and-general.html"}
@@ -34,9 +34,9 @@ if(x=="10"){xxx="/2017/11/wellbore-stability-while-drilling.html"}
 if(x=="11"){xxx="/2017/11/case-application-in-mining-panel.html"}
 if(x=="12"){xxx="/2017/11/closet-hanging-rod-for-ergonomist.html"}
 if(x=="13"){xxx="/2017/11/3d-rendering-services.html"}
-if(x=="14"){xxx="/2017/11/this-is-3-basic-steps-of-injection.html"}
+if(x=="14"){xxx="/2017/11/hydraulic-telescopic-cranes.html"}
 if(x=="15"){xxx="/2017/11/overburden-strata-failure-due-to-mining.html"}
-if(x=="16"){xxx="/2017/11/cloud-server-and-shared-server-hosting.html"}a_to_ve[i].href="http://www.linklink.gq"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="16"){xxx="/2017/11/forex-trading-tips-three-vital-rules-to.html"}a_to_ve[i].href="http://www.linklink.gq"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
